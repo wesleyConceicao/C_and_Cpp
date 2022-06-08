@@ -1,2 +1,2 @@
-# C-C-
-Respositório de Exercicios em C e C++ 
+# C an Cpp
+Repositório de Exercicios em C e C++ 
