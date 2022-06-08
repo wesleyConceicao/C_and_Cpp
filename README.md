@@ -1,2 +1,4 @@
-# C an Cpp
-Repositório de Exercicios em C e C++ 
+# Repositório de Exercicios em C e C++ 
+
+Alguns exercicios e projetos em C/C++
+
